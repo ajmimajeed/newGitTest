@@ -1,7 +1,8 @@
 The Rainbow
 
 Purple
-Pink orange
+Pink 
+Orange
 Blue
 Red
 Green
